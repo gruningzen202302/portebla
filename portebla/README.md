@@ -2,9 +2,10 @@
 
 A Clojure library designed to ... well, that part is up to you.
 
-## Usage
+## Reference 
 
-FIXME
+[medium article](https://medium.com/mindorks/building-mobile-apps-ios-and-android-with-clojurescript-4600235f826c)
+
 
 ## License
 
